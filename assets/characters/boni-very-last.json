@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "start",
+			"indices": [],
+			"name": "Boni strangle start"
+		},
+		{
+			"offsets": [
+				-70,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "yes",
+			"indices": [],
+			"name": "Boni strangle yes"
+		},
+		{
+			"offsets": [
+				420,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "Bonnie hit"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Boni_strangle",
+	"position": [
+		-713,
+		-73
+	],
+	"healthicon": "Freddy-fazle",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		171,
+		0
+	],
+	"camera_position": [
+		180,
+		-46
+	],
+	"sing_duration": 4.70000000000001,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Boni_last.png" width="5334" height="5334">
+	<SubTexture name="Boni down0000" x="3538.8435999999997" y="4161.5414" width="764.7049" height="820.0409999999999" frameX="-4.0001999999999995" frameY="-36.668499999999995" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0001" x="3538.8435999999997" y="4161.5414" width="764.7049" height="820.0409999999999" frameX="-4.0001999999999995" frameY="-36.668499999999995" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0002" x="4303.5485" y="2823.4745" width="764.7049" height="816.0408" frameX="-2.6668" frameY="-36.001799999999996" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0003" x="4303.5485" y="2823.4745" width="764.7049" height="816.0408" frameX="-2.6668" frameY="-36.001799999999996" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0004" x="0" y="4407.5536999999995" width="758.7045999999999" height="846.0423" frameX="-0" frameY="-0" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0005" x="0" y="4407.5536999999995" width="758.7045999999999" height="846.0423" frameX="-0" frameY="-0" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0006" x="758.7045999999999" y="4402.2201" width="762.7048" height="836.7085" frameX="-2.0000999999999998" frameY="-12.000599999999999" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0007" x="758.7045999999999" y="4402.2201" width="762.7048" height="836.7085" frameX="-2.0000999999999998" frameY="-12.000599999999999" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0008" x="758.7045999999999" y="4402.2201" width="762.7048" height="836.7085" frameX="-2.0000999999999998" frameY="-12.000599999999999" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0009" x="758.7045999999999" y="4402.2201" width="762.7048" height="836.7085" frameX="-2.0000999999999998" frameY="-12.000599999999999" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0010" x="4303.5485" y="3639.5152999999996" width="754.0377" height="817.3742" frameX="-2.0000999999999998" frameY="-31.334899999999998" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni down0011" x="4589.5628" y="998.7166" width="723.3694999999999" height="826.0413" frameX="-2.0000999999999998" frameY="-22.6678" frameWidth="768.7050999999999" frameHeight="856.7094999999999"/>
+	<SubTexture name="Boni idle0000" x="3410.8372" y="0" width="662.0331" height="1004.7168999999999" frameX="-2.6668" frameY="-4.0001999999999995" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0001" x="3262.8298" y="1010.0504999999999" width="664.0332" height="1004.7168999999999" frameX="-2.6668" frameY="-4.0001999999999995" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0002" x="2747.4707" y="0" width="663.3665" height="1010.0504999999999" frameX="-4.0001999999999995" frameY="-2.0000999999999998" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0003" x="2597.4631999999997" y="1060.7196999999999" width="665.3666" height="1010.0504999999999" frameX="-4.0001999999999995" frameY="-2.0000999999999998" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0004" x="3266.83" y="3157.4912" width="661.3664" height="1004.0501999999999" frameX="-2.6668" frameY="-4.6669" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0005" x="2603.4635" y="3192.1596" width="663.3665" height="1004.0501999999999" frameX="-2.6668" frameY="-4.6669" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0006" x="2182.1090999999997" y="4336.2168" width="659.3662999999999" height="992.7162999999999" frameX="-0.6667" frameY="-12.000599999999999" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0007" x="1521.4094" y="4336.2168" width="660.6997" height="992.7162999999999" frameX="-0.6667" frameY="-12.000599999999999" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0008" x="4589.5628" y="1824.7578999999998" width="656.6995" height="998.7166" frameX="-0" frameY="-4.0001999999999995" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0009" x="4072.8702999999996" y="0" width="658.6995999999999" height="998.7166" frameX="-0" frameY="-4.0001999999999995" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0010" x="3928.1964" y="1004.7168999999999" width="661.3664" height="1002.7167999999999" frameX="-0" frameY="-0" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0011" x="3360.8347" y="2014.7674" width="663.3665" height="1002.7167999999999" frameX="-0" frameY="-0" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0012" x="3928.1964" y="1004.7168999999999" width="661.3664" height="1002.7167999999999" frameX="-0" frameY="-0" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0013" x="3360.8347" y="2014.7674" width="663.3665" height="1002.7167999999999" frameX="-0" frameY="-0" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni idle0014" x="3928.1964" y="1004.7168999999999" width="661.3664" height="1002.7167999999999" frameX="-0" frameY="-0" frameWidth="669.3668" frameHeight="1012.0505999999999"/>
+	<SubTexture name="Boni left0000" x="1990.7661999999998" y="1064.0531999999998" width="606.697" height="1063.3864999999998" frameX="-2.0000999999999998" frameY="-0.6667" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0001" x="1990.7661999999998" y="1064.0531999999998" width="606.697" height="1063.3864999999998" frameX="-2.0000999999999998" frameY="-0.6667" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0002" x="1520.7427" y="0" width="605.3636" height="1064.0531999999998" frameX="-0" frameY="-0" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0003" x="1520.7427" y="0" width="605.3636" height="1064.0531999999998" frameX="-0" frameY="-0" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0004" x="1987.4326999999998" y="3200.8266999999996" width="616.0308" height="1032.0516" frameX="-8.000399999999999" frameY="-32.001599999999996" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0005" x="1987.4326999999998" y="3200.8266999999996" width="616.0308" height="1032.0516" frameX="-8.000399999999999" frameY="-32.001599999999996" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0006" x="2134.1067" y="2162.1081" width="613.3639999999999" height="1030.0515" frameX="-6.667" frameY="-34.0017" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0007" x="2134.1067" y="2162.1081" width="613.3639999999999" height="1030.0515" frameX="-6.667" frameY="-34.0017" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0008" x="2134.1067" y="2162.1081" width="613.3639999999999" height="1030.0515" frameX="-6.667" frameY="-34.0017" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0009" x="2134.1067" y="2162.1081" width="613.3639999999999" height="1030.0515" frameX="-6.667" frameY="-34.0017" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0010" x="2747.4707" y="2127.4397" width="613.3639999999999" height="1030.0515" frameX="-6.667" frameY="-34.0017" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni left0011" x="1520.7427" y="2162.1081" width="613.3639999999999" height="1038.7186" frameX="-6.667" frameY="-25.3346" frameWidth="624.0312" frameHeight="1064.0531999999998"/>
+	<SubTexture name="Boni right0000" x="0" y="0" width="794.7063999999999" height="1115.3890999999999" frameX="-4.6669" frameY="-0" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0001" x="0" y="0" width="794.7063999999999" height="1115.3890999999999" frameX="-4.6669" frameY="-0" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0002" x="0" y="2222.1111" width="790.0395" height="1102.7218" frameX="-2.6668" frameY="-12.6673" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0003" x="0" y="2222.1111" width="790.0395" height="1102.7218" frameX="-2.6668" frameY="-12.6673" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0004" x="1252.0626" y="1089.3878" width="738.7035999999999" height="1072.7203" frameX="-0.6667" frameY="-42.6688" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0005" x="1252.0626" y="1089.3878" width="738.7035999999999" height="1072.7203" frameX="-0.6667" frameY="-42.6688" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0006" x="790.0395" y="2212.1106" width="730.7031999999999" height="1073.387" frameX="-0" frameY="-42.0021" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0007" x="790.0395" y="2212.1106" width="730.7031999999999" height="1073.387" frameX="-0" frameY="-42.0021" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0008" x="790.0395" y="2212.1106" width="730.7031999999999" height="1073.387" frameX="-0" frameY="-42.0021" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0009" x="790.0395" y="2212.1106" width="730.7031999999999" height="1073.387" frameX="-0" frameY="-42.0021" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0010" x="1252.0626" y="3285.4975999999997" width="735.3701" height="1050.7192" frameX="-0" frameY="-64.6699" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni right0011" x="2841.4754" y="4336.2168" width="697.3682" height="973.382" frameX="-0" frameY="-142.00709999999998" frameWidth="799.3733" frameHeight="1115.3890999999999"/>
+	<SubTexture name="Boni up0000" x="794.7063999999999" y="0" width="636.6985" height="1089.3878" frameX="-2.0000999999999998" frameY="-17.3342" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0001" x="794.7063999999999" y="0" width="636.6985" height="1089.3878" frameX="-2.0000999999999998" frameY="-17.3342" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0002" x="0" y="3324.8329" width="638.6985999999999" height="1082.7207999999998" frameX="-0" frameY="-24.001199999999997" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0003" x="0" y="3324.8329" width="638.6985999999999" height="1082.7207999999998" frameX="-0" frameY="-24.001199999999997" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0004" x="0" y="1115.3890999999999" width="612.0305999999999" height="1106.722" frameX="-28.6681" frameY="-0" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0005" x="0" y="1115.3890999999999" width="612.0305999999999" height="1106.722" frameX="-28.6681" frameY="-0" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0006" x="612.0305999999999" y="1115.3890999999999" width="613.3639999999999" height="1096.7214999999999" frameX="-29.334799999999998" frameY="-10.000499999999999" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0007" x="612.0305999999999" y="1115.3890999999999" width="613.3639999999999" height="1096.7214999999999" frameX="-29.334799999999998" frameY="-10.000499999999999" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0008" x="612.0305999999999" y="1115.3890999999999" width="613.3639999999999" height="1096.7214999999999" frameX="-29.334799999999998" frameY="-10.000499999999999" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0009" x="612.0305999999999" y="1115.3890999999999" width="613.3639999999999" height="1096.7214999999999" frameX="-29.334799999999998" frameY="-10.000499999999999" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0010" x="2126.1063" y="0" width="613.3639999999999" height="1060.7196999999999" frameX="-29.334799999999998" frameY="-46.0023" frameWidth="642.6988" frameHeight="1106.722"/>
+	<SubTexture name="Boni up0011" x="638.6985999999999" y="3324.8329" width="613.3639999999999" height="1077.3872" frameX="-29.334799999999998" frameY="-29.334799999999998" frameWidth="642.6988" frameHeight="1106.722"/>
+</TextureAtlas>

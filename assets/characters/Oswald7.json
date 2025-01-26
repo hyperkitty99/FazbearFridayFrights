@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Oswald baw left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Oswald baw right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Oswald baw idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oswald up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Oswald baw down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_baw",
+	"position": [
+		-153,
+		-53
+	],
+	"healthicon": "Oswo-baw",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		286,
+		26
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

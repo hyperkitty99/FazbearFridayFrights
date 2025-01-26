@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Boni baw idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Boni baw left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Boni baw right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-162
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Boni baw down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				192
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Boni baw up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				120
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Boni baw mad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				116
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Boni baw mad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-200
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Boni baw mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				172
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Boni baw mad up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Boni_baw",
+	"position": [
+		-1433,
+		-66
+	],
+	"healthicon": "BONIBON-baw",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		116
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

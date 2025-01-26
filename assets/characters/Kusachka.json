@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bonnie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				102
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bonnie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-195
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bonnie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bonnie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				166
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bonnie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "Bonnie appear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				62
+			],
+			"anim": "transition",
+			"fps": 24,
+			"name": "Bonnie transition",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-101,
+				69
+			],
+			"anim": "mad",
+			"fps": 24,
+			"name": "Bonnie mad",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Bonnie_last",
+	"position": [
+		-580,
+		-73
+	],
+	"healthicon": "Freddy-fazle",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		171,
+		0
+	],
+	"camera_position": [
+		-138,
+		15
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

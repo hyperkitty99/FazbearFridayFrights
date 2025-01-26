@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="dont.png" width="956" height="489">
+	<SubTexture name="dont0000" x="2" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+	<SubTexture name="dont0001" x="2" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+	<SubTexture name="dont0002" x="320" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+	<SubTexture name="dont0003" x="320" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+	<SubTexture name="dont0004" x="638" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+	<SubTexture name="dont0005" x="638" y="2" width="316" height="489" rotated="true" frameX="-0" frameY="-1" frameWidth="489" frameHeight="317"/>
+</TextureAtlas>

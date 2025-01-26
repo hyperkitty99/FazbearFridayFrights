@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald idle"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald left"
+		},
+		{
+			"offsets": [
+				10,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald down"
+		},
+		{
+			"offsets": [
+				8,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oswald right"
+		},
+		{
+			"offsets": [
+				11,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_last2",
+	"position": [
+		186,
+		-46
+	],
+	"healthicon": "quid-oslwo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		146,
+		232
+	],
+	"camera_position": [
+		-193,
+		-173
+	],
+	"sing_duration": 4.6,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

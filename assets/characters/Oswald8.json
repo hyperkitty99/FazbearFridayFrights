@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				41
+			],
+			"anim": "start",
+			"fps": 24,
+			"name": "Oswald strangle start",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				9
+			],
+			"anim": "first",
+			"fps": 24,
+			"name": "Oswald strangle first",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				9
+			],
+			"anim": "second",
+			"fps": 24,
+			"name": "Oswald strangle second",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_strangles_first",
+	"position": [
+		186,
+		-46
+	],
+	"healthicon": "quid-oslwo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		146,
+		232
+	],
+	"camera_position": [
+		-193,
+		-173
+	],
+	"sing_duration": 5.7,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

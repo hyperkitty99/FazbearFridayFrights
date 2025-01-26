@@ -1,0 +1,191 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				73,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald left"
+		},
+		{
+			"offsets": [
+				34,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald down"
+		},
+		{
+			"offsets": [
+				26,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oswald right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oswald up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				57,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Oswald miss left"
+		},
+		{
+			"offsets": [
+				46,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Oswald miss down"
+		},
+		{
+			"offsets": [
+				44,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Oswald miss right"
+		},
+		{
+			"offsets": [
+				40,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Oswald miss up"
+		},
+		{
+			"offsets": [
+				82,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "leave",
+			"indices": [],
+			"name": "Oswald leave"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				26
+			],
+			"anim": "preleave",
+			"fps": 24,
+			"name": "Oswald pre leave",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				25,
+				25,
+				25,
+				25,
+				25,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_second",
+	"position": [
+		366,
+		-33
+	],
+	"healthicon": "Dim-dimich-first",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		193,
+		255
+	],
+	"camera_position": [
+		206,
+		-53
+	],
+	"sing_duration": 5.4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

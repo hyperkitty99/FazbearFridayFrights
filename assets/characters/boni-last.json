@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boni idle"
+		},
+		{
+			"offsets": [
+				13,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boni left"
+		},
+		{
+			"offsets": [
+				7,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boni down"
+		},
+		{
+			"offsets": [
+				5,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boni right"
+		},
+		{
+			"offsets": [
+				34,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boni up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Boni_last",
+	"position": [
+		-713,
+		-73
+	],
+	"healthicon": "Freddy-fazle",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		171,
+		0
+	],
+	"camera_position": [
+		180,
+		-46
+	],
+	"sing_duration": 4.70000000000001,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

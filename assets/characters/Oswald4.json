@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				841,
+				485
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "Owald pear"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_pear",
+	"position": [
+		573,
+		33
+	],
+	"healthicon": "quid-oslwo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		146,
+		232
+	],
+	"camera_position": [
+		513,
+		-480
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,234 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Oswald left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Oswald lmiss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "Oswald lmiss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Oswald eft ye",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Oswald down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Oswald dmiss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-20
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "Oswald dmiss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-34
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Oswald own ye",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Oswald right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Oswald rmiss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-2
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "Oswald rmiss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-2
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Oswald ight ye",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Oswald up"
+		},
+		{
+			"offsets": [
+				-3,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Oswald umiss up"
+		},
+		{
+			"offsets": [
+				-3,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "Oswald umiss up"
+		},
+		{
+			"offsets": [
+				-3,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Oswald p ye"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald idle"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Oswald odle ye"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				-1
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "Oswald surfacing",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_first",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Dim-dimich-first",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		193,
+		255
+	],
+	"camera_position": [
+		-206,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

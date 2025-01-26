@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="oswald_baw.png" width="2035" height="1981">
+	<SubTexture name="Oswald baw down0000" x="0" y="0" width="504.0252" height="440.022" frameX="-0" frameY="-16.000799999999998" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0001" x="0" y="0" width="504.0252" height="440.022" frameX="-0" frameY="-16.000799999999998" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0002" x="1040.7187" y="0" width="495.3581" height="455.35609999999997" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0003" x="1040.7187" y="0" width="495.3581" height="455.35609999999997" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0004" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0005" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0006" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0007" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0008" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0009" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0010" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0011" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0012" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0013" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw down0014" x="1537.4101999999998" y="0" width="496.02479999999997" height="456.02279999999996" frameX="-4.0001999999999995" frameY="-0" frameWidth="504.0252" frameHeight="456.02279999999996"/>
+	<SubTexture name="Oswald baw idle0000" x="1560.078" y="457.35619999999994" width="473.35699999999997" height="516.6925" frameX="-0" frameY="-0" frameWidth="473.35699999999997" frameHeight="516.6925"/>
+	<SubTexture name="Oswald baw idle0001" x="1560.078" y="457.35619999999994" width="473.35699999999997" height="516.6925" frameX="-0" frameY="-0" frameWidth="473.35699999999997" frameHeight="516.6925"/>
+	<SubTexture name="Oswald baw idle0002" x="1042.7187999999999" y="457.35619999999994" width="516.0258" height="472.6903" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="473.35699999999997" frameHeight="516.6925"/>
+	<SubTexture name="Oswald baw idle0003" x="1042.7187999999999" y="457.35619999999994" width="516.0258" height="472.6903" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="473.35699999999997" frameHeight="516.6925"/>
+	<SubTexture name="Oswald baw left0000" x="1090.7212" y="1451.4059" width="588.6961" height="528.0264" frameX="-0" frameY="-0" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0001" x="1090.7212" y="1451.4059" width="588.6961" height="528.0264" frameX="-0" frameY="-0" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0002" x="564.0282" y="1406.7369999999999" width="525.3596" height="564.6949" rotated="true" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0003" x="564.0282" y="1406.7369999999999" width="525.3596" height="564.6949" rotated="true" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0004" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0005" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0006" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0007" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0008" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0009" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0010" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0011" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0012" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0013" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw left0014" x="0" y="1406.7369999999999" width="562.6948" height="524.6929" frameX="-4.0001999999999995" frameY="-1.3334" frameWidth="589.3628" frameHeight="528.0264"/>
+	<SubTexture name="Oswald baw right0000" x="1096.0548" y="975.3820999999999" width="537.3602" height="474.69039999999995" rotated="true" frameX="-2.6668" frameY="-8.6671" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0001" x="1096.0548" y="975.3820999999999" width="537.3602" height="474.69039999999995" rotated="true" frameX="-2.6668" frameY="-8.6671" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0002" x="0" y="914.0456999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0003" x="0" y="914.0456999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0004" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0005" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0006" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0007" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0008" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0009" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0010" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0011" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0012" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0013" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald baw right0014" x="548.0274" y="931.3798999999999" width="546.694" height="474.02369999999996" rotated="true" frameX="-0" frameY="-0" frameWidth="477.3572" frameHeight="546.694"/>
+	<SubTexture name="Oswald up0000" x="505.35859999999997" y="0" width="534.0267" height="451.35589999999996" rotated="true" frameX="-2.0000999999999998" frameY="-0" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0001" x="505.35859999999997" y="0" width="534.0267" height="451.35589999999996" rotated="true" frameX="-2.0000999999999998" frameY="-0" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0002" x="522.0260999999999" y="456.68949999999995" width="519.3593" height="456.02279999999996" rotated="true" frameX="-0" frameY="-14.667399999999999" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0003" x="522.0260999999999" y="456.68949999999995" width="519.3593" height="456.02279999999996" rotated="true" frameX="-0" frameY="-14.667399999999999" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0004" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0005" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0006" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0007" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0008" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0009" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0010" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0011" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0012" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0013" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+	<SubTexture name="Oswald up0014" x="0" y="452.68929999999995" width="520.6927" height="455.35609999999997" rotated="true" frameX="-0" frameY="-13.334" frameWidth="456.02279999999996" frameHeight="534.0267"/>
+</TextureAtlas>

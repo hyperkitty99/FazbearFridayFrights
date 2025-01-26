@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="menuThings.png" width="186" height="169">
+	<SubTexture name="credits" x="2" y="61" width="170" height="49" frameX="-2" frameY="-2" frameWidth="174" frameHeight="52"/>
+	<SubTexture name="freeplay" x="2" y="112" width="95" height="57" frameX="-2" frameY="-2" frameWidth="100" frameHeight="63"/>
+	<SubTexture name="options" x="2" y="2" width="183" height="57" frameX="-2" frameY="-2" frameWidth="186" frameHeight="61"/>
+</TextureAtlas>

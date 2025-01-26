@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- _________________________ Application Settings _________________________ -->
+
+	<app title="Fazbear Friday Frights: Into the pit" file="FFF" packageName="com.ffb.fiksiki" package="com.ffb.fiksiki" main="Main" version="0.2.8" company="FlyingFeltBoot" />
+
+	<set name="APP_ID" value="0x0100f6c013bbc000" />
+	<app preloader="flixel.system.FlxPreloader" />
+	<set name="SWF_VERSION" value="11.8" />
+	
+	<!-- ______________________ PSYCH ENGINE CUSTOMIZATION ______________________ -->
+
+	<define name="VIDEOS_ALLOWED" if="windows" unless="32bits"/>
+	<define name="CRASH_HANDLER" if="desktop release" />
+
+	<window width="1280" height="720" fps="" background="#000000" hardware="true" vsync="false" orientation="landscape" fullscreen="false" resizable="true"/>
+
+	<!-- _____________________________ Path Settings ____________________________ -->
+
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+
+	<classpath name="source" />
+
+	<!-- __________________________ Game Assets & Etc. __________________________ -->
+
+	<assets path="assets" />
+	<assets path="assets/videos" library="videos" if="VIDEOS_ALLOWED"/>
+	<assets path="assets/songs" library="songs"/>
+
+	<library name="videos" preload="true" if="VIDEOS_ALLOWED"/>
+	<library name="songs" preload="true" />
+
+	<!-- _______________________________ Libraries ______________________________ -->
+
+	<haxelib name="flixel" />
+	<haxelib name="flixel-ui" />
+	<haxelib name="flixel-addons" />
+	<haxelib name="tjson" />
+
+	<haxelib name="hxvlc" if="VIDEOS_ALLOWED"/>
+	<haxelib name="hxdiscord_rpc" if="DISCORD_ALLOWED"/>
+
+	<!-- Disable Discord IO Thread -->
+	<haxedef name="DISCORD_DISABLE_IO_THREAD" if="hxdiscord_rpc" />
+
+	<section if="VIDEOS_ALLOWED">
+		<!--The level of verbosity that is being used for logging-->
+		<haxedef name="HXVLC_VERBOSE" value="2" if="debug" />
+
+		<!--Enable libVLC logging on hxVLC-->
+		<haxedef name="HXVLC_LOGGING" if="debug" />
+	</section>
+
+	<haxelib name="hxcpp-debug-server" if="debug"/>
+	<haxedef name="HXC_LIBVLC_LOGGING" if="VIDEOS_ALLOWED debug" />
+	
+	<!-- ______________________________ Haxedefines _____________________________ -->
+
+	<!--Optimise inputs, be careful you will get null errors if you don't use conditionals in your game-->
+	<!-- <haxedef name="FLX_NO_MOUSE" if="mobile" /> -->
+	<!-- <haxedef name="FLX_NO_KEYBOARD" if="mobile" /> -->
+	<haxedef name="FLX_NO_TOUCH" if="desktop" />
+	<!--<haxedef name="FLX_NO_GAMEPAD" />-->
+
+	<!--Disable the Flixel core focus lost screen-->
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+	
+	<!-- Show debug traces for hxCodec -->
+	<haxedef name="HXC_DEBUG_TRACE" if="debug" />
+	
+	<!--Disable the Flixel core debugger. Automatically gets set whenever you compile in release mode!-->
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+
+	<!--Enable this for Nape release builds for a serious peformance improvement-->
+	<haxedef name="NAPE_RELEASE_BUILD" unless="debug" />
+	
+	<!--Used for Izzy Engine's crash handler-->
+	<haxedef name="HXCPP_CHECK_POINTER" if="CRASH_HANDLER" />
+	<haxedef name="HXCPP_STACK_LINE" if="CRASH_HANDLER" />
+	<haxedef name="HXCPP_STACK_TRACE" if="CRASH_HANDLER" />
+	
+	<!--Disable deprecated warnings-->
+	<haxedef name='no-deprecation-warnings' />
+
+	<!--Macro fixes-->
+	<haxeflag name="--macro" value="allowPackage('flash')" />
+	<haxeflag name="--macro" value="include('my.pack')" />
+
+	<!-- _________________________________ Custom _______________________________ -->
+	<icon path="art/iconOG.png" size='16'/>
+	<icon path="art/iconOG.png" size='32'/>
+	<icon path="art/iconOG.png" size='64'/>
+	<icon path="art/iconOG.png" size='128'/>
+	<icon path="art/iconOG.png" size='256'/>
+	<icon path="art/iconOG.png"/>
+</project>

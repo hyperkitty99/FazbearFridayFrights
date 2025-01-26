@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Mike.png" width="1308" height="1772">
+	<SubTexture name="Mike down0000" x="482.69079999999997" y="614.6974" width="480.02399999999994" height="306.01529999999997" rotated="true" frameX="-0" frameY="-3.3335" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0001" x="482.69079999999997" y="614.6974" width="480.02399999999994" height="306.01529999999997" rotated="true" frameX="-0" frameY="-3.3335" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0002" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0003" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0004" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0005" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0006" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0007" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0008" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0009" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0010" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0011" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0012" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0013" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike down0014" x="0" y="614.6974" width="481.3574" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="483.35749999999996"/>
+	<SubTexture name="Mike idle0000" x="0" y="1464.7398999999998" width="490.0245" height="306.01529999999997" rotated="true" frameX="-0" frameY="-6.667" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0001" x="0" y="1464.7398999999998" width="490.0245" height="306.01529999999997" rotated="true" frameX="-0" frameY="-6.667" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0002" x="307.3487" y="972.0486" width="306.01529999999997" height="489.3578" frameX="-0" frameY="-6.000299999999999" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0003" x="307.3487" y="972.0486" width="306.01529999999997" height="489.3578" frameX="-0" frameY="-6.000299999999999" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0004" x="491.3579" y="1462.7397999999998" width="488.69109999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-4.6669" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0005" x="491.3579" y="1462.7397999999998" width="488.69109999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-4.6669" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0006" x="0" y="972.0486" width="306.01529999999997" height="491.3579" frameX="-0.6667" frameY="-2.0000999999999998" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0007" x="0" y="972.0486" width="306.01529999999997" height="491.3579" frameX="-0.6667" frameY="-2.0000999999999998" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0008" x="494.6914" y="307.3487" width="492.69129999999996" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0.6667" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0009" x="494.6914" y="307.3487" width="492.69129999999996" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0.6667" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0010" x="0" y="307.3487" width="493.35799999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0011" x="0" y="307.3487" width="493.35799999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0012" x="0" y="307.3487" width="493.35799999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0013" x="0" y="307.3487" width="493.35799999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike idle0014" x="0" y="307.3487" width="493.35799999999995" height="306.01529999999997" rotated="true" frameX="-0.6667" frameY="-0" frameWidth="306.68199999999996" frameHeight="496.69149999999996"/>
+	<SubTexture name="Mike left0000" x="988.7161" y="488.69109999999995" width="312.0156" height="482.0241" frameX="-0.6667" frameY="-0" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0001" x="988.7161" y="488.69109999999995" width="312.0156" height="482.0241" frameX="-0.6667" frameY="-0" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0002" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0003" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0004" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0005" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0006" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0007" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0008" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0009" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0010" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0011" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0012" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0013" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike left0014" x="926.713" y="972.0486" width="309.3488" height="481.3574" frameX="-4.0001999999999995" frameY="-0.6667" frameWidth="313.349" frameHeight="482.0241"/>
+	<SubTexture name="Mike right0000" x="614.6974" y="972.0486" width="310.68219999999997" height="488.02439999999996" frameX="-0.6667" frameY="-0" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0001" x="614.6974" y="972.0486" width="310.68219999999997" height="488.02439999999996" frameX="-0.6667" frameY="-0" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0002" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0003" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0004" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0005" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0006" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0007" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0008" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0009" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0010" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0011" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0012" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0013" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike right0014" x="998.0499" y="0" width="308.6821" height="487.35769999999997" frameX="-0" frameY="-0.6667" frameWidth="311.34889999999996" frameHeight="488.02439999999996"/>
+	<SubTexture name="Mike up0000" x="0" y="0" width="499.3583" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0001" x="0" y="0" width="499.3583" height="306.01529999999997" rotated="true" frameX="-0" frameY="-0" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0002" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0003" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0004" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0005" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0006" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0007" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0008" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0009" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0010" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0011" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0012" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0013" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+	<SubTexture name="Mike up0014" x="500.69169999999997" y="0" width="496.02479999999997" height="306.01529999999997" rotated="true" frameX="-0" frameY="-7.333699999999999" frameWidth="306.01529999999997" frameHeight="503.3585"/>
+</TextureAtlas>

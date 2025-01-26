@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mike idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mike left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mike down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mike up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mike right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mike",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "MIKE-THE-BLACK-ONE",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		77
+	],
+	"camera_position": [
+		-286,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

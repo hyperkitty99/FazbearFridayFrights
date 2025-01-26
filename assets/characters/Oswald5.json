@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Oswald left"
+		},
+		{
+			"offsets": [
+				28,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Oswald down"
+		},
+		{
+			"offsets": [
+				193,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Oswald right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Oswald up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Oswald miss left"
+		},
+		{
+			"offsets": [
+				44,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Oswald miss down"
+		},
+		{
+			"offsets": [
+				216,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Oswald miss right"
+		},
+		{
+			"offsets": [
+				-26,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Oswald miss up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oswald idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_last",
+	"position": [
+		506,
+		-20
+	],
+	"healthicon": "quid-oslwo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		146,
+		232
+	],
+	"camera_position": [
+		285,
+		-34
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

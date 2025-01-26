@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oswald.png">
+	<SubTexture name="concerned" x="1062" y="2" width="462" height="590" frameX="-735" frameY="-135" frameWidth="464" frameHeight="592"/>
+	<SubTexture name="happy" x="2" y="2" width="489" height="693" frameX="-710" frameY="-35" frameWidth="491" frameHeight="695"/>
+	<SubTexture name="shitballs" x="493" y="2" width="567" height="542" frameX="-650" frameY="-195" frameWidth="569" frameHeight="544"/>
+</TextureAtlas>

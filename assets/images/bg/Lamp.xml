@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Lamp.png" width="2055" height="1300">
+	<SubTexture name="Lamp0000" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0001" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0002" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0003" x="0" y="1281.3973999999998" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0004" x="0" y="1281.3973999999998" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0005" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0006" x="0" y="1281.3973999999998" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0007" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0008" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0009" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0010" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0011" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0012" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0013" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0014" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0015" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0016" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0017" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0018" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0019" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0020" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0021" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+	<SubTexture name="Lamp0022" x="0" y="0" width="2034.1017" height="1281.3973999999998" frameX="-9.3338" frameY="-8.000399999999999" frameWidth="2055.4361" frameHeight="1300.0649999999998"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="credit.png" width="1414" height="1411">
+	<SubTexture name="credits0000" x="2" y="2" width="838" height="624" frameX="-49" frameY="-145" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0001" x="2" y="2" width="838" height="624" frameX="-49" frameY="-145" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0002" x="2" y="628" width="833" height="644" frameX="-37" frameY="-134" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0003" x="2" y="628" width="833" height="644" frameX="-37" frameY="-134" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0004" x="837" y="688" width="576" height="721" frameX="-48" frameY="-94" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0005" x="837" y="688" width="576" height="721" frameX="-48" frameY="-94" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0006" x="842" y="2" width="422" height="684" frameX="-31" frameY="-114" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="credits0007" x="842" y="2" width="422" height="684" frameX="-31" frameY="-114" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0000" x="842" y="2" width="422" height="684" frameX="-31" frameY="-114" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0001" x="842" y="2" width="422" height="684" frameX="-31" frameY="-114" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0002" x="837" y="688" width="576" height="721" frameX="-48" frameY="-94" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0003" x="837" y="688" width="576" height="721" frameX="-48" frameY="-94" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0004" x="2" y="628" width="833" height="644" frameX="-37" frameY="-134" frameWidth="888" frameHeight="909"/>
+	<SubTexture name="creditsReverse0005" x="2" y="628" width="833" height="644" frameX="-37" frameY="-134" frameWidth="888" frameHeight="909"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				9
+			],
+			"anim": "third",
+			"fps": 24,
+			"name": "Oswald strangle third",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oswald_strangle_second",
+	"position": [
+		186,
+		-46
+	],
+	"healthicon": "quid-oslwo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		146,
+		232
+	],
+	"camera_position": [
+		-193,
+		-173
+	],
+	"sing_duration": 5.7,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

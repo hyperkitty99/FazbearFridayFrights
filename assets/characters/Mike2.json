@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mike left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mike down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mike up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mike right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				220
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Mike idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				220
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Mike idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1120,
+				54
+			],
+			"anim": "leave",
+			"fps": 24,
+			"name": "Mike leave",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mike_second",
+	"position": [
+		-800,
+		-66
+	],
+	"healthicon": "MIKE-THE-BLACK-ONE",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		77
+	],
+	"camera_position": [
+		-46,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

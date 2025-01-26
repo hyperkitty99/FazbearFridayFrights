@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chip idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chip left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chip down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chip up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chip right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				432,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "leave",
+			"indices": [],
+			"name": "Chip leave"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Chip_second",
+	"position": [
+		-1120,
+		66
+	],
+	"healthicon": "chip-yeah-thats-it-its-just-chip-chip-FROM-FRIDAY-NIGHT-FUN-",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		240,
+		53
+	],
+	"camera_position": [
+		86,
+		-26
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

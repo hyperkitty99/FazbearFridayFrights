@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="oswald_strangle_third.png" width="4376" height="4000">
+	<SubTexture name="Oswald strangle hit0000" x="0" y="0" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0001" x="0" y="823.3744999999999" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0002" x="0" y="1646.7489999999998" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0003" x="0" y="2470.1234999999997" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0004" x="689.3678" y="701.3684" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0005" x="1519.4092999999998" y="0" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0006" x="688.7011" y="1646.7489999999998" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0007" x="2208.7771" y="0" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0008" x="1378.0689" y="823.3744999999999" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0009" x="689.3678" y="2470.1234999999997" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0010" x="2897.4782" y="0" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0011" x="2067.4366999999997" y="823.3744999999999" width="687.3677" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0012" x="3586.846" y="0" width="688.0344" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0013" x="830.7081999999999" y="3293.4979999999996" width="822.0410999999999" height="694.7013999999999" rotated="true" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0014" x="1377.4022" y="1646.7489999999998" width="694.7013999999999" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0015" x="2756.1378" y="823.3744999999999" width="720.7026999999999" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0016" x="1378.0689" y="2470.1234999999997" width="720.036" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0017" x="3478.1739" y="823.3744999999999" width="720.036" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0018" x="2073.437" y="1646.7489999999998" width="720.036" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0019" x="2099.4383" y="2470.1234999999997" width="720.036" height="822.0410999999999" frameX="-469.35679999999996" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0020" x="688.7011" y="0" width="829.3747999999999" height="700.035" rotated="true" frameX="-436.0218" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0021" x="0" y="3293.4979999999996" width="829.3747999999999" height="705.3685999999999" rotated="true" frameX="-436.0218" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0022" x="1654.0827" y="3293.4979999999996" width="759.3712999999999" height="700.7017" frameX="-452.02259999999995" frameY="-100.005" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0023" x="2794.8064" y="1646.7489999999998" width="758.7045999999999" height="700.7017" frameX="-452.02259999999995" frameY="-100.005" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0024" x="2414.7873999999997" y="3293.4979999999996" width="896.0447999999999" height="688.0344" frameX="-410.68719999999996" frameY="-185.34259999999998" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0025" x="3554.8444" y="1646.7489999999998" width="705.3685999999999" height="425.35459999999995" frameX="-410.68719999999996" frameY="-186.0093" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0026" x="2820.8077" y="2348.7841" width="689.3678" height="346.0173" frameX="-324.01619999999997" frameY="-334.01669999999996" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0027" x="3554.8444" y="2073.437" width="689.3678" height="344.0172" frameX="-324.01619999999997" frameY="-334.01669999999996" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0028" x="2820.8077" y="2348.7841" width="689.3678" height="346.0173" frameX="-324.01619999999997" frameY="-334.01669999999996" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0029" x="3554.8444" y="2073.437" width="689.3678" height="344.0172" frameX="-324.01619999999997" frameY="-334.01669999999996" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0030" x="2820.8077" y="2696.1348" width="512.0255999999999" height="592.6963" frameX="-176.00879999999998" frameY="-335.3501" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0031" x="3511.5089" y="2418.7875999999997" width="510.69219999999996" height="594.0296999999999" frameX="-176.00879999999998" frameY="-335.3501" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0032" x="3312.1656" y="3290.1645" width="510.69219999999996" height="592.6963" frameX="-0" frameY="-298.6816" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0033" x="3824.1911999999998" y="3014.1506999999997" width="509.3588" height="594.0296999999999" frameX="-0" frameY="-298.6816" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0034" x="1378.0689" y="701.3684" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0035" x="1378.0689" y="701.3684" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0036" x="1378.0689" y="701.3684" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+	<SubTexture name="Oswald strangle hit0037" x="1378.0689" y="701.3684" width="0.6667" height="0.6667" frameX="-0" frameY="-0" frameWidth="1307.3987" frameHeight="930.0464999999999"/>
+</TextureAtlas>
